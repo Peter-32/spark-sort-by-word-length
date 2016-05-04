@@ -1,4 +1,4 @@
-spark sort by word length
+Spark Sort By Word Length
 ==========================
 
-"spark sort by word length" will take a text file and sort it by word length.
+"Spark Sort By Word Length" will take a text file and sort it by word length.  Spark executes on data in memory and runs 100 times faster than Impala when in memory and 10 times faster when writing to the disk.
